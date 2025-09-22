@@ -3,9 +3,7 @@
 
 #### Resumo:
 
-Nível 10 Maze:<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/b377c3e2-8294-43e2-be3c-624c31f9950c" />
 
-Nível 10 Turtle, Comboio:<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/dd190d9f-5678-4bd0-9557-aaab31697a27" />
 
 
 #### Lista de Resultados:
