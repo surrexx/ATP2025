@@ -1,4 +1,4 @@
-[bdturma.txt](https://github.com/user-attachments/files/22990885/bdturma.txt)# TPC1
+# TPC1
 ### Autor: Maria Surreira, a112341,![Screenshot_20250920_114406_Instagram](https://github.com/user-attachments/assets/151788e3-218c-4c92-a633-dc62cbfab866)
 
 #### Resumo:
@@ -26,12 +26,7 @@ Este código implementa uma pequena aplicação para gerir uma turma de alunos d
 #### Lista de Resultados:
 [Uploading tpc5.ras.py…]()
 
-ficheiro da turma: [Upload
-('Eduarda', 'A114567', [167, 148, 130])
-('Henrique', 'A112345', (125, 99, 134))
-('Leonor', 'A115678', [145, 178, 190])
-('Let�cia', 'A238743', [156, 175, 166])
-('Matilde', 'A652836', [88, 171, 169])ing bdturma.txt…]()
+ficheiro da turma: [bdturma.txt](https://github.com/user-attachments/files/22990887/bdturma.txt)
 
 
         
