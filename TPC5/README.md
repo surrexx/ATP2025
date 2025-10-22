@@ -24,7 +24,8 @@ Este código implementa uma pequena aplicação para gerir uma turma de alunos d
 9.Loop principal: Mantém o programa a correr até o utilizador escolher sair, executando a opção escolhida pelo utilizador no menu.
 
 #### Lista de Resultados:
-[Uploading tpc5.ras.py…]()
+[tpc5.ras.py](https://github.com/user-attachments/files/23049263/tpc5.ras.py)
+
 
 ficheiro da turma: [bdturma.txt](https://github.com/user-attachments/files/22990887/bdturma.txt)
 
