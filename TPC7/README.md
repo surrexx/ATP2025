@@ -13,27 +13,22 @@ A terceira função soma repetidamente os dígitos de um número até restar ape
 
 Por fim, na terceira parte (TPC 3), o código simula uma rede social chamada MyFaceBook, representada por uma lista de dicionários onde cada dicionário é um post. São definidas várias funções:
 
-uma para contar quantos posts existem,
+-uma para contar quantos posts existem,
 
-outra para listar os posts de um determinado autor,
+-outra para listar os posts de um determinado autor,
 
-uma que mostra todos os autores de forma ordenada,
+-uma que mostra todos os autores de forma ordenada,
 
-uma que adiciona um novo post com um novo identificador,
+-uma que adiciona um novo post com um novo identificador,
 
-outra que remove posts com base no ID,
+-outra que remove posts com base no ID,
 
-uma função que mostra quantos posts cada autor fez,
+-uma função que mostra quantos posts cada autor fez,
 
-e, por fim, uma que retorna os posts comentados por um autor específico.
+-e, por fim, uma que retorna os posts comentados por um autor específico.
 
 Em resumo, este trabalho mostra a aplicação prática de listas, dicionários, loops e funções em Python, ilustrando como manipular dados, procurar informações e organizar conteúdos de forma estruturada e lógica.
 
 #### Lista de Resultados:
 [Uploading TPC7…]()
-
-
-
-
-print(comentadoPor(MyFaceBook,'jj'))
 
