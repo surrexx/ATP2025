@@ -1,4 +1,4 @@
-# TPC8
+# TPC8 - Simulação de Clínica Médica
 ### Autores: Maria Surreira, a112341; Letícia Costa, a112019; Matilde Castanheira, a111729 
 ![Screenshot_20250920_114406_Instagram](https://github.com/user-attachments/assets/151788e3-218c-4c92-a633-dc62cbfab866)
 
